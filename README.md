@@ -5,4 +5,4 @@
 
 * Data augmentation on the training set by randomly flipping the images
 
-* Visualizing the ***latent space*** for face images by using the ***T-SNE*** algorithm to reduce the embedding layer dimension and comparing the resulting plots with the CIFAR-10 dataset and randomly generated data
+* Visualizing the ***latent space*** for face images by using the ***T-SNE*** algorithm to reduce the embedding layer dimension + comparing the resulting plots with the CIFAR-10 dataset and randomly generated data
