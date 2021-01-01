@@ -1,4 +1,4 @@
-# Deep-Convolutional-Auto-Encoder
+# Deep-Convolutional-AutoEncoder
 * Architecture and Dataset: Encoder-decoder architecture to map the images of CelebA dataset to themselves
 
 * Annotation Extraction: Storing the annotations attributed to each image
